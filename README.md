@@ -171,7 +171,7 @@ Please Note: if We want to tear down all the resources we have created on AWS to
 
 Conclusion
 
-And just like that, you've built your first reusable Terraform module and tested it on AWS — big win! 🎉
+And just like that, you've built your first reusable Terraform module and tested it on AWS, big win! 
 
 By modularizing your infrastructure code, you’ve taken a huge step toward writing cleaner, more maintainable, and scalable Terraform projects. Instead of repeating the same blocks over and over, you now have a blueprint you can plug into any environment with just a few lines of code.
 
